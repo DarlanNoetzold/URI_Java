@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class URI_1020 {
 	public static void main(String[] args) throws IOException {
-        int a = 400;
+		Scanner input = new Scanner(System.in);
+        int a = input.nextInt();
         int ano = 0;
         int mes = 0;
         
