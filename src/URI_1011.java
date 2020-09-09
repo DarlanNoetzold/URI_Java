@@ -1,6 +1,3 @@
-package URI_1011;
-
-
 import java.io.IOException;
 import java.util.Scanner;
 
